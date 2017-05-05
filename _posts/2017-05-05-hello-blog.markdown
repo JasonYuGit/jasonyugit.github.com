@@ -10,4 +10,7 @@ tags:
 ---
 
 > “Yeah It's on. ”
+![](/img/home-bg.jpg)
+
+
 
